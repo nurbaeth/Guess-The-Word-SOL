@@ -11,7 +11,7 @@
 
 ## How It Works
 1. The contract owner deploys the game with a secret word and an optional hint.
-2. Players submit their guesses via the `guessWord` function.
+2. Players submit their guesses via the `guessWord` function. 
 3. If a guess is correct, the game ends and no further guesses are allowed. 
 
 ## Deployment
