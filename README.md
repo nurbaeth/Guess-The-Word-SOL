@@ -7,7 +7,7 @@
 - 🔒 **Fully on-chain** — all guesses are stored transparently.
 - 🎮 **Simple gameplay** — guess the word and win!
 - 👤 **One guess per player** — each address can submit only one guess.
-- 🛑 **Game ends automatically** when the correct word is guessed. 
+- 🛑 **Game ends automatically** when the correct word is guessed.  
 
 ## How It Works
 1. The contract owner deploys the game with a secret word and an optional hint.
