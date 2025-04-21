@@ -15,7 +15,7 @@
 3. If a guess is correct, the game ends and no further guesses are allowed.   
 
 ## Deployment
-To deploy the contract, use Remix, Hardhat, or Foundry:  
+To deploy the contract, use Remix, Hardhat, or Foundry:   
 ```solidity
 constructor(string memory _secretWord, string memory hint)
 ```
